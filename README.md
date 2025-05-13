@@ -1,5 +1,5 @@
 # BI Analytic Projects
-Portfolio page for projects completed while attending the Business Intelligence Analysis TripleTen Bootcamp.
+Portfolio page for projects completed while attending the Business Intelligence Analytics TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
