@@ -34,20 +34,20 @@ Video Overview can be found <a href='https://drive.google.com/file/d/127-o2r_JCs
 ### Process:
 - First Responder:
      1) Connect to CrewTracker Workstation via Remote Desktop Connection.
-	2) Screenshot/grab Crystal Report Expected Layout.
+	2) Screenshot/grab the Crystal Report Expected Layout.
 	3) Screenshot/grab Crystal Reports Field Explorer Details.
 	4) Save the exported PDF view of Crystal Reports.
-	5) Copy SQL Query from Crystal reports.
+	5) Copy the SQL Query from Crystal Reports.
 	6) Copy the formula field SQL parts and any linked Sub-Reports.
 - Peer Reviewer:
-     1️) Make sure you can open the Power BI file and determine that it looks more or less like the original Crystal Report
-     2️) Check the SQL Query is there and it looks like the original.  
-     3️) Check that all formula fields have been converted to calculated fields or measures in PowerBI. 
-     4️) Check for completeness and whether the report is achieving the original purpose.
--Call List Merge Report:
-     1) Merge source SQL Queries into one SQL Direct Query.
-     2) Build Power BI Dashboard according to Call List Reports layout expectations. Using best judgment for variances between the three reports.
-     3) Convert Crystal Report Formula Fields into Power BI DAX as Measures and Calculations, ensuring the formatting allows for various potential future uses.
+     1️) Make sure you can open the Power BI file and determine that it looks more or less like the original Crystal Report.  
+     2️) Check the SQL Query is there, and it looks like the original.  
+     3️) Check that all formula fields have been converted to calculated fields or measures in Power BI. 
+     4️) Check for completeness and whether the report is achieving the original purpose.  
+-Call List Merge Report:  
+     1) Merge the source SQL Queries into one SQL Direct Query.  
+     2) Build Power BI Dashboard according to Call List Reports layout expectations. Using best judgment for variances between the three reports.  
+     3) Convert Crystal Report Formula Fields into Power BI DAX as Measures and Calculations, ensuring the formatting allows for various potential future uses.  
 
 ### Data
 CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database SnowTracker) on Azure Cloud (anonymized data).
@@ -59,10 +59,10 @@ CrewTracker Software's Microsoft SQL Database (CREWAI and its Dummy Database Sno
 - Each Crystal report needed a 1-1 conversation into a Powwer BI Dashboard. However, as our experience in the conversation process grew, this requirement was adjusted for comfort level, and we were allowed to create merged reports based on a similarity map.
 
 ### Results:
-Through my *externship, CrewTracker* was able to move from *Crystal Reports(, a legacy reporting tool that can be cumbersome for complex data analysis. We were able to initiate efforts to convert all report data to Power BI. This modern platform allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
+Through my *externship, CrewTracker* was able to move from *Crystal Reports (a legacy reporting tool that can be cumbersome for complex data analysis. We were able to initiate efforts to convert all report data to Power BI. This modern platform allows for more user-friendly and interactive dashboards, facilitating deeper data insights. By providing a more intuitive reporting system, CrewTracker will empower its clients to gain a clearer understanding of their data, ultimately leading to improved decision-making and potentially higher client satisfaction.
 
 ### Personal Stats:
-- As a First Responder I attempted to Catalog = 91 Crystal Reports
+- As a First Responder, I attempted to Catalog = 91 Crystal Reports
 - Successful Cataloged Crystal Reports = 73 (the remaining files were "File Not Found")
 - Power BI conversations Peer Reviewed = 9
 - Power BI Report Completed = 3 (Merged Report into 1)
