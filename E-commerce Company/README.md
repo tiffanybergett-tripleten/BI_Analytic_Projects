@@ -26,7 +26,7 @@ This was the third project that I worked on in the TripleTen Business Intelligen
 
 ### Description:
 - 8-page spreadsheet
-- Includes raw data (Hidden), processed data, data analysis, and pivot tables.
+- Includes raw data (Hidden), processed data, data analysis, and pivot tables.  
 **Google Speadsheet** can be found [HERE](https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing)
 
 ### Process:
@@ -36,8 +36,8 @@ This was the third project that I worked on in the TripleTen Business Intelligen
 4) Calculated retention rates.
 5) Finalized the formatting and documentation for the client's readability.
 
-### Data
-The data was one Google spreadsheet file provided by TripleTen. Raw Data Google Spreadsheet can be found [HERE](https://docs.google.com/spreadsheets/d/1qWRY5svKGkJRyYNv7K4XvEGm9FpcoJhH5G0p4Qbq0V0/edit?usp=sharing)
+### Data  
+The data was one Google spreadsheet file provided by TripleTen. Raw Data Google Spreadsheet can be found [HERE](https://docs.google.com/spreadsheets/d/1qWRY5svKGkJRyYNv7K4XvEGm9FpcoJhH5G0p4Qbq0V0/edit?usp=sharing)  
 - `'Business Analyst Project.csv'`: raw transaction logs
     - `'raw_user_activity'`: Each row represents an activity, or event, by a user on the company’s website
         - `'user_id'`: unique customer IDs
