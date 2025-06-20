@@ -27,7 +27,7 @@ The purpose was to find patterns in the available information from competitors t
 
 ### Description:
 - 6-Step SQL query.
-- Exploratory data analysis and investigation of whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
+- Exploratory data analysis and investigation of whether the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.  
 **Google Doc** with Goals, Code, and Results can be found [HERE](https://docs.google.com/document/d/1t9FqPRD-FGLUZX0qEDk4kp3brIdVtAm7cCa1mUBBytg/edit?usp=sharing) 
   
 ### Process:
