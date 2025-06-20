@@ -19,12 +19,12 @@ This was an optional project with TripleTen. It involved performing a series of 
 
 | Section Title   | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
-| [Description]() | Describes the project's purpose, software, and analytical focus.            |
-| [Data]() | Describes the data source, including tables and key fields.                 |
-| [Process]() | Describes the data analysis process and SQL techniques used.                |
-| [Assumptions]() | Describes assumptions made during the analysis.                             |
-| [Findings]() | Key insights learned from the data analysis.                                |
-| [Recommendations]() | Actionable recommendations for investment strategies.                       |
+| [Description](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/VentureInsight/README.md#description) | Describes the project's purpose, software, and analytical focus.            |
+| [Data](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/VentureInsight/README.md#data) | Describes the data source, including tables and key fields.                 |
+| [Process](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/VentureInsight/README.md#process) | Describes the data analysis process and SQL techniques used.                |
+| [Assumptions](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/VentureInsight/README.md#assumptions) | Describes assumptions made during the analysis.                             |
+| [Findings](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/VentureInsight/README.md#findings) | Key insights learned from the data analysis.                                |
+| [Recommendations](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/VentureInsight/README.md#recommendations) | Actionable recommendations for investment strategies.                       |
 
 ### Description:
 
@@ -112,9 +112,9 @@ The analysis uncovered the following insights:
 
 ###  Recommendations:
 
-Based on the findings, the following recommendations were made for VentureInsight’s clients:
--Investment Strategy: Leverage insights on **geographic funding**, **sector trends**, and **fund activity levels** to guide investment and co-investment strategies.
-- Market Understanding: Use acquisition trends and volatility insights to understand market dynamics and potential risks.
-- Marketing & Outreach: Target industry influencers identified through social media analysis for outreach campaigns.
-- Strategic Debates: Use education correlation data to inform internal hiring or team-building strategies.
-- Overall Landscape: Establish realistic expectations for startup performance and guide further investigation areas.
+Based on the findings, the following recommendations were made for VentureInsight’s clients:  
+-Investment Strategy: Leverage insights on **geographic funding**, **sector trends**, and **fund activity levels** to guide investment and co-investment strategies.  
+- Market Understanding: Use acquisition trends and volatility insights to understand market dynamics and potential risks.  
+- Marketing & Outreach: Target industry influencers identified through social media analysis for outreach campaigns.  
+- Strategic Debates: Use education correlation data to inform internal hiring or team-building strategies.  
+- Overall Landscape: Establish realistic expectations for startup performance and guide further investigation areas.  
