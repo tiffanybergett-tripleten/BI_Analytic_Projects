@@ -37,7 +37,7 @@ The purpose was to review the landscape of apps on the Shopify platform, using d
 
 ### Data
 The Excel file provided by TripleTen was public data scraped from the Shopify App Store.  
-**Raw Data** can be found [HERE](https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true)
+**Raw Data** can be found [HERE](https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true)  
 - `'shopify.xlsx'`: Excel Workbook containing 4 sheets:
     - `'apps'`: Details of the apps on the Shopify apps marketplace
     - `'apps_categories'`: Join tables to connect apps with categories
@@ -50,10 +50,10 @@ The Excel file provided by TripleTen was public data scraped from the Shopify Ap
 3) The provided column names and data types in the tables accurately reflect their content.
 
 ### Findings:
-1. New Apps are more likely to be rated early in their deployment.
-2. Most apps are rated favorably.
-3. Reviews are higher for an app if a developer answers the review.
-4. Reviews that have been voted as helpful have a weighted average of 5.48.
-5. The app developer "Elfsight" has the highest combined ratings at 135.10 stars.
-6. The app developer "Pictorem" has the highest average helpful reviews at 50.
-7. The app developer "FireaApps" has responded to the highest number of reviews at 6,008 responses.
+- New Apps are more likely to be rated early in their deployment.
+- Most apps are rated favorably.
+- Reviews are higher for an app if a developer answers the review.
+- Reviews that have been voted as helpful have a weighted average of 5.48.
+- The app developer "Elfsight" has the highest combined ratings at 135.10 stars.
+- The app developer "Pictorem" has the highest average helpful reviews at 50.
+- The app developer "FireaApps" has responded to the highest number of reviews at 6,008 responses.
