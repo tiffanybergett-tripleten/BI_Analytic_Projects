@@ -3,7 +3,7 @@
 This was an optional project with TripleTen. It involved performing a series of SQL-based data analysis tasks for VentureInsight, a research firm providing insights to venture capital firms. The goal was to understand the overall startup landscape, analyze funding patterns, identify industry influencers, and evaluate factors affecting startup success to help shape a quarterly investment report.
 
 <!--
-🎥 **[Video Overview – Click Here](#)**
+🎥 **The Loom Video Overview** can be found [HERE]()**
 -->
 
 ##  Table of Contents for Repository Artifacts
