@@ -28,7 +28,7 @@ The purpose was to prepare an analysis for the CEO of Superstore to help them un
 
 ### Description:
 - 7 Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
-- Includes data analysis, charts, dashboard, and Tableau story
+- Includes data analysis, charts, dashboard, and Tableau story  
 **Tableau Public** Share Link can be found [HERE](https://public.tableau.com/views/SuperStoreReturns_17275522394170/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   
 ### Process:
