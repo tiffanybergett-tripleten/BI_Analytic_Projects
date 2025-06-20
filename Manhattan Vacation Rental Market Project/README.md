@@ -2,7 +2,7 @@
 
 This is VERSION 2 of the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC, to help a client decide what type of vacation rental property to invest in.
 
-🎥 **[Video Overview – Click Here](https://www.loom.com/share/5dcca9877f544883869566b1e8468505?sid=e6021781-b845-461c-b132-2b099657b656)**
+🎥 **The Loom Video Overview** can be found [HERE](https://www.loom.com/share/5dcca9877f544883869566b1e8468505?sid=e6021781-b845-461c-b132-2b099657b656)
 
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
