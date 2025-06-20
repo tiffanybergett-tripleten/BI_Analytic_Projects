@@ -2,7 +2,7 @@
 
 This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
 
-🎥 **The Loom Video Overview** can be found [HERE](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0999d9f0-df9f-4a30-9665-ffb61487a7da
+🎥 **The Loom Video Overview** can be found [HERE](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0999d9f0-df9f-4a30-9665-ffb61487a7da)
 
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
