@@ -4,7 +4,7 @@ This was the second project I worked on in the TripleTen Business Intelligence A
 It was an independent project designed to showcase what I have learned in SQL.  
 The purpose was to find patterns in the available information from competitors to understand passenger preferences and the impact of external factors on rides.  
 
-🎥 **The Loom Video Overview** can be found [HERE](https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c)**
+🎥 **The Loom Video Overview** can be found [HERE](https://www.loom.com/share/9f59de65f9634b6e9c420a8ecb6d7035?sid=0223aaeb-227d-48e3-b184-8d7dbc9ab31c)
 
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
