@@ -3,7 +3,7 @@ Portfolio page for projects completed while attending the Business Intelligence 
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Fresh Beats](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Fresh%20Beats)<br>May 2024 | **Status Report** to present **business recommendations** for a music streaming company, Fresh Beats, via **Google Doc Report**.  |
+| 0 | [Fresh Beats](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Fresh%20Beats)<br>May 2024 | **Status Report** to present **business recommendations** for a music streaming company, Fresh Beats, via **Google Docs Report**.  |
 | 1 | [Manhattan Vacation Rental Market](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project)<br>Aug 2024 | **Market Analysis** to consult an anonymous short-term rental company on what types of properties they should be targeting based on Airbnb listings and to present the findings via **Spreadsheets**. |
 | 2 | [Zuber](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Zuber)<br>Oct 2023| **SQL-based Demand Analysis** Consult for the rideshare company Zuber to understand passenger preferences and the impact of external factors on rides. |
 | 3 | [VentureInsights](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Fresh%20Beats)<br>June 2025 | **SQL-based Venture Capital Inights** of startup and venture fund data to identify market trends, funding patterns, and key influencers for investment reporting. |
