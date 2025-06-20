@@ -36,7 +36,7 @@ The purpose was to consult the company by reviewing the store’s operations and
 2) Determined profit and loss centers.  
 3) Analyzed the worth of advertising during the company's triage phase.
 4) Created a Calculated Field  - `IF` formula for a Return Rate Measurement.
-5) Examined the contribution returns various dimensions to profits.  
+5) Briefly examined the contribution returns various dimensions to profits.  
 
 ### Data
 The data was one Excel spreadsheet file provided by TripleTen:
