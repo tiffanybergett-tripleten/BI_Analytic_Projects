@@ -13,6 +13,7 @@ The purpose was to consult the company by reviewing the store’s operations and
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/SuperStore%20Consult/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [Reviewer Grade.png](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/SuperStore%20Consult/Reviewer%20Grade.png) | This is the comments left by my project reviewer. |
+| 5 | [SuperStore Consult.pdf](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/SuperStore%20Consult/SuperStore%20Consult.pdf) | A PDF version of my project for easy viewing. |
 
 ---
 
