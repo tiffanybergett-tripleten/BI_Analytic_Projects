@@ -13,7 +13,7 @@ The purpose was to prepare an analysis for the CEO of Superstore to help them un
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [Reviewer Grade.png](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/SuperStore%20Returns/Reviewer%20Grade.png) | This is the comments left by my project reviewer. |
-| 5 | [SuperStore Returns.pdf]() | This is a PDF version of my project for easy viewing. |
+| 5 | [SuperStore Returns.pdf](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/SuperStore%20Returns/SuperStore%20Returns.pdf) | This is a PDF version of my project for easy viewing. |
 ---
 
 ## Table of Contents for README
