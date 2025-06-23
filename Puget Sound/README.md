@@ -16,7 +16,7 @@ This project highlights my strengths in:
 | :---------: | ----- | ----------- |
 | 1 | [Join & Initial Filters.png](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/Puget%20Sound/Join%20%26%20Initial%20Filters.png) | Table Joining caused row limit constraints; list of initial filters used to reduce file size. |
 | 2 | [Puget Sound - Water Quality.zip](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/Puget%20Sound/Puget%20Sound%20-%20Water%20Quality.zip) | A downloadable Zip with a PDF copy of the entire Tableau workbook. |
-| 3 | Puget Sound.pdf](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/Puget%20Sound/Puget%20Sound.pdf) | A a PDF copy of Tableau Story. |
+| 3 | [Puget Sound.pdf](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/Puget%20Sound/Puget%20Sound.pdf) | A a PDF copy of Tableau Story. |
 | 4 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 5 | [Requirements.txt](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/Puget%20Sound/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 6 | [WLRD_Sites_20240906.csv](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/blob/main/Puget%20Sound/WLRD_Sites_20240906.csv) | Additional spreadsheet file in CSV format found on the county website to provide GPS coordinates of the original data's areas. |
