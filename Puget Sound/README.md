@@ -4,10 +4,10 @@ This was a Code Jam **Competition** project that I worked on after the TripleTen
 The purpose was to create a visually compelling story from a provided dataset **in 4 days with Tableau and collaboration**.
 
 This project highlights my strengths in:  
-Data Analysis & Exploration (understanding and manipulating data)  
-Data Visualization (creating clear and informative visuals)  
-Tableau Calculations, Parameters, and Sets  
-Communication & Teamwork (conveying insights and collaborating effectively)  
+- Data Analysis & Exploration (understanding and manipulating data)  
+- Data Visualization (creating clear and informative visuals)  
+- Tableau Calculations, Parameters, and Sets  
+- Communication & Teamwork (conveying insights and collaborating effectively)  
 
 **YouTube LIVE recording of the entire competition with host Q&A can be found** can be found [HERE](https://www.youtube.com/live/DWhX2HIf83Q)  
 
