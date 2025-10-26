@@ -1,17 +1,17 @@
-# BI Analytic Projects
-Portfolio page for projects completed while attending the Business Intelligence Analytics TripleTen Bootcamp.
+Portfolio of completed projects I worked on while attending the PROGRAM NAME TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Fresh Beats](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Fresh%20Beats)<br>May 2024 | **Status Report** to present **business recommendations** for a music streaming company, Fresh Beats, via **Google Docs Report**.  |
-| 1 | [Manhattan Vacation Rental Market](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Manhattan%20Vacation%20Rental%20Market%20Project)<br>Aug 2024 | **Market Analysis** to consult an anonymous short-term rental company on what types of properties they should be targeting based on Airbnb listings and to present the findings via **Spreadsheets**. |
-| 2 | [Zuber](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Zuber)<br>Oct 2023| **SQL-based Demand Analysis** Consult for the rideshare company Zuber to understand passenger preferences and the impact of external factors on rides. |
-| 3 | [VentureInsights](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/VentureInsight)<br>June 2025 | **SQL-based Venture Capital Inights** of startup and venture fund data to identify market trends, funding patterns, and key influencers for investment reporting. |
-| 4 | [E-commerce Company](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/E-commerce%20Company)<br>Nov 2023| **E-Commerce Analysis** to analyze raw transaction logs for an anonymous E-commerce company and present business analytical findings via **Spreadsheets**. |
-| 5 | [SuperStore Consult](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/SuperStore%20Consult)<br>Nov 2023 | **Operational Review Analysis** to consult SuperStore's profits to avoid bankruptcy via **Tableau**. |
-| 6 | [SuperStore Returns](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/SuperStore%20Returns)<br>Dec 2023 | An additional **Returns Analysis** for SuperStore. Focusing on Product Return Trends via **Tableau**. |
-| 7 | [Shopify](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Shopify)<br>Jan 2024| **Platform Analysis** on the landscape of the Shopify App platform finding **KPI**s that play into its success via **Power BI**. |
-| 8 | [Zomato](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Zomato)<br>Feb 2024 | **Customer Analysis Segmentation** with **RFM** for Zomato restaurants via **Power BI**. |
-| 9 | [CrewTracker](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/CrewTracker)<br>Apr2024 | **Dashboard Migration** during a **Real-World Externship**: To Convert **Crystal Reports** to **Power BI** and merge reports into **Dashboards**. |
-| 10| [Animation Movies](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Animation%20Movies)<br>Apr 2024 | **Film Analysis** as a Code-Jam Competition. It was a light-hearted team project to create a visually compelling story from a provided dataset in 4 days to showcase **collaboration** skills via **Tableau** |
-| 11| [Puget Sound](https://github.com/Tiffany-Bergett/BI_Analytic_Projects/tree/main/Puget%20Sound)<br>Sep 2024| **Environmental Analysis** as a Code Jam Competition. It was a light-hearted team project to create a visually compelling story from a provided dataset in 4 days to showcase **collaboration** skills via **Tableau**. |
+| 0 | [Report Based Project](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [Spreadsheet Data Analysis](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 2 | [Exploring Start-Up Trends with SQL](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 3 | [Business Analytics](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 4 | [Data Visualization with Tableau](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 5 | [Storytelling with Data](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 6 | [Power BI](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 7 | [Food Delivery App](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+<!--
+| 8 | [Code Pudding](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 9 | [Externship](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 10| [Pet Project](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+-->
